@@ -1,9 +1,10 @@
-# Customer-Shopping-Behaviour-Analysis
+Customer Shopping Behaviour Analysis
+
 This project analyzes customer purchasing patterns to uncover insights into product preferences, spending behavior, and customer segments. It combines Python, MySQL, and Power BI to perform end-to-end data cleaning, exploratory data analysis, SQL-based business insights, and dashboard visualization.
 
 📊 Project Overview
 
-The goal of this project is to explore customer shopping behavior using a dataset of 3,900 transactions. The analysis focuses on:
+This project explores customer shopping behavior using a dataset of 3,900 transactions. The analysis focuses on:
 
 Demographic patterns
 
@@ -32,13 +33,13 @@ Jupyter Notebook
 📁 Project Workflow
 1. Data Cleaning & Preparation (Python)
 
-Loaded and explored dataset
+Loaded and explored the dataset
 
 Standardized column names
 
 Handled missing values (median imputation for review ratings)
 
-Feature engineering (age grouping, purchase frequency calculation)
+Performed feature engineering (age grouping, purchase frequency calculation)
 
 Removed redundant fields
 
@@ -46,25 +47,25 @@ Exported cleaned dataset to MySQL
 
 2. Business Analysis (MySQL)
 
-Performed SQL queries to extract insights such as:
+Key SQL insights include:
 
 Revenue by gender
 
-Average spend by subscribers vs. non-subscribers
+Spending comparison: subscribers vs. non-subscribers
 
 Top high-rated products
 
 Discount-dependent items
 
-Shipping type comparisons
+Shipping type performance
 
 Customer segmentation (New / Returning / Loyal)
 
-Age-group revenue contribution
+Revenue by age group
 
 3. Visualization (Power BI)
 
-Created an interactive dashboard highlighting:
+Interactive dashboard includes:
 
 Total revenue
 
@@ -72,7 +73,7 @@ Category-wise performance
 
 Customer segments
 
-Ratings & top products
+Top-rated & best-selling products
 
 Subscription analysis
 
@@ -90,29 +91,29 @@ Screenshots and the .pbix file are included in the repository.
 
 🧠 Key Insights
 
-Female customers generated slightly higher average revenue.
+Female customers generated slightly higher average revenue
 
-Products with discounts still attracted high spenders.
+Discounted items attracted high spenders
 
-Subscribers showed stronger long-term purchasing behavior.
+Subscribers demonstrated higher long-term value
 
-Age groups 25–40 contributed the largest share of revenue.
+Age groups 25–40 contributed the largest share of revenue
 
-Express shipping users tended to spend more per order.
+Express shipping users tended to spend more per order
 
 🌟 Business Recommendations
 
 Promote subscription benefits to increase retention
 
-Enhance loyalty programs for returning customers
+Strengthen loyalty programs for returning customers
 
-Feature top-rated products in marketing campaigns
+Highlight top-rated products in marketing campaigns
 
-Review discount strategies for revenue optimization
+Reassess discount strategy for optimal margins
 
-Target high-value age groups with focused promotions
+Focus promotions on high-value age groups
 
 🙏 Credits
 
 This project was inspired by a YouTube tutorial on customer shopping behavior analysis.
-All code has been fully rewritten, adapted, and implemented using MySQL instead of PostgreSQL, with independent visualizations and workflow improvements.
+All code has been fully rewritten, adapted, and implemented using MySQL instead of PostgreSQL, with independent visualizations and workflow enhancements.
