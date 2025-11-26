@@ -1,8 +1,8 @@
-Customer Shopping Behaviour Analysis
+#Customer Shopping Behaviour Analysis#
 
 This project analyzes customer purchasing patterns to uncover insights into product preferences, spending behavior, and customer segments. It combines Python, MySQL, and Power BI to perform end-to-end data cleaning, exploratory data analysis, SQL-based business insights, and dashboard visualization.
 
-📊 Project Overview
+📊 **Project Overview**
 
 This project explores customer shopping behavior using a dataset of 3,900 transactions. The analysis focuses on:
 
@@ -14,14 +14,14 @@ This project explores customer shopping behavior using a dataset of 3,900 transa
 + Customer segmentation
 + Revenue performance by age, gender, and category
 
-🛠 Tools & Technologies
+🛠 **Tools & Technologies**
 
 + Python (Pandas, NumPy, Matplotlib/Seaborn, SQLAlchemy)
 + Jupyter Notebook
 + MySQL (Database integration + business queries)
 + Power BI (Interactive dashboard)
 
-📁 Project Workflow
+📁 **Project Workflow**
 1. Data Cleaning & Preparation (Python)
 
 + Loaded and explored the dataset
@@ -33,7 +33,7 @@ This project explores customer shopping behavior using a dataset of 3,900 transa
 
 2. Business Analysis (MySQL)
 
-Key SQL insights include:
+  Key SQL insights include:
 + Revenue by gender
 + Spending comparison: subscribers vs. non-subscribers
 + Top high-rated products
@@ -44,7 +44,7 @@ Key SQL insights include:
 
 3. Visualization (Power BI)
 
-Interactive dashboard includes:
+  Interactive dashboard includes:
 
 + Total revenue
 + Category-wise performance
@@ -52,19 +52,11 @@ Interactive dashboard includes:
 + Top-rated & best-selling products
 + Subscription analysis
 
-📈 Power BI Dashboard
+📈 **Power BI Dashboard**
 
-Screenshots and the .pbix file are included in the repository.
+  Screenshots and the .pbix file are included in the repository.
 
-📂 Repository Structure
-├── data/              # Dataset (raw & cleaned)
-├── notebooks/         # Python notebooks for EDA & cleaning
-├── sql/               # MySQL queries
-├── dashboard/         # Power BI files
-├── images/            # Visualizations/screenshots
-└── README.md          # Project documentation
-
-🧠 Key Insights
+🧠 **Key Insights**
 
 + Female customers generated slightly higher average revenue
 + Discounted items attracted high spenders
@@ -72,7 +64,7 @@ Screenshots and the .pbix file are included in the repository.
 + Age groups 25–40 contributed the largest share of revenue
 + Express shipping users tended to spend more per order
 
-🌟 Business Recommendations
+🌟 **Business Recommendations**
 
 + Promote subscription benefits to increase retention
 + Strengthen loyalty programs for returning customers
@@ -80,7 +72,7 @@ Screenshots and the .pbix file are included in the repository.
 + Reassess discount strategy for optimal margins
 + Focus promotions on high-value age groups
 
-🙏 Credits
+🙏 **Credits**
 
 This project was inspired by a YouTube tutorial on customer shopping behavior analysis.
 All code has been fully rewritten, adapted, and implemented using MySQL instead of PostgreSQL, with independent visualizations and workflow enhancements.
