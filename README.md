@@ -113,8 +113,6 @@ Review discount strategies for revenue optimization
 Target high-value age groups with focused promotions
 
 🙏 Credits
-This project was inspired by a YouTube tutorial on customer shopping behavior analysis.
-All code has been fully rewritten, adapted, and implemented using MySQL instead of PostgreSQL, with independent visualizations and workflow improvements.
 
 This project was inspired by a YouTube tutorial on customer shopping behavior analysis.
 All code has been fully rewritten, adapted, and implemented using MySQL instead of PostgreSQL, with independent visualizations and workflow improvements.
