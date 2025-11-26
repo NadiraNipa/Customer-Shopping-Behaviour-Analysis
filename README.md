@@ -6,18 +6,12 @@ This project analyzes customer purchasing patterns to uncover insights into prod
 
 This project explores customer shopping behavior using a dataset of 3,900 transactions. The analysis focuses on:
 
-Demographic patterns
-
-Spending distribution
-
-Product popularity
-
++ Demographic patterns
++ Spending distribution
++ Product popularity
 Discount usage
-
 Subscription trends
-
 Customer segmentation
-
 Revenue performance by age, gender, and category
 
 🛠 Tools & Technologies
