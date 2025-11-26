@@ -1,4 +1,4 @@
-#Customer Shopping Behaviour Analysis
+# Customer Shopping Behaviour Analysis
 
 This project analyzes customer purchasing patterns to uncover insights into product preferences, spending behavior, and customer segments. It combines Python, MySQL, and Power BI to perform end-to-end data cleaning, exploratory data analysis, SQL-based business insights, and dashboard visualization.
 
@@ -33,7 +33,7 @@ This project explores customer shopping behavior using a dataset of 3,900 transa
 
 2. Business Analysis (MySQL)
 
-  Key SQL insights include:
+   Key SQL insights include:
 + Revenue by gender
 + Spending comparison: subscribers vs. non-subscribers
 + Top high-rated products
@@ -44,8 +44,7 @@ This project explores customer shopping behavior using a dataset of 3,900 transa
 
 3. Visualization (Power BI)
 
-  Interactive dashboard includes:
-
+   Interactive dashboard includes:
 + Total revenue
 + Category-wise performance
 + Customer segments
